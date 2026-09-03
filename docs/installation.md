@@ -1,14 +1,94 @@
-# Installation Guide
+# Product XYZ Installation Guide
 
-This document provides all the steps necessary to install the application correctly on your system.
+> This guide explains how to install Product XYZ.
 
-## Before you begin
+## Overview
 
-1. Before your Begin Step 1
-2. Before you Begin Step 2
-   1. Before you Begin Side Step1
-      1. 
+Product XYZ enables organizations to manage employee data efficiently.
 
+### Key Features
 
-## Installation Steps
+- Employee Management
+- Payroll Integration
+- Reporting Dashboard
 
+### System Requirements
+
+| Component | Requirement |
+|------------|------------|
+| OS | Windows 11 |
+| RAM | 8 GB |
+| Storage | 20 GB |
+
+---
+
+## Pre-Installation Checklist
+
+- [x] Download installer
+- [x] Verify permissions
+- [ ] Schedule maintenance window
+
+---
+
+## Installation Architecture
+
+```mermaid
+flowchart LR
+A[Download Installer] --> B[Run Setup]
+B --> C[Install Components]
+C --> D[Launch Product]
+```
+
+---
+
+## Step 1: Download
+
+Click the following link:
+
+[Download Packageom/download
+
+---
+
+## Step 2: Run Installer
+
+Execute:
+
+```powershell
+ProductXYZ_Setup.exe
+```
+
+### Sample Screen
+
+![Installation Wizard800x450/png?text=Installation+Wizard](/)
+
+---
+
+## Step 3: Validate Installation
+
+Run:
+
+```bash
+xyz --version
+```
+
+Expected output:
+
+```text
+Version 5.2.1
+```
+
+---
+
+## Notes
+
+> Administrator rights are required.
+
+~~Windows Server 2012~~ is no longer supported.
+
+---
+
+## Footnote
+
+Installation logs are stored in the application folder.[^1]
+
+[^1]: Default location: C:\ProgramData\ProductXYZ\Logs

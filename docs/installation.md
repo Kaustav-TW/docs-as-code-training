@@ -59,7 +59,7 @@ ProductXYZ_Setup.exe
 
 ### Sample Screen
 
-![Installation Wizard800x450/png?text=Installation+Wizard](/)
+![Installation Wizard800x450/png?text=Installation+Wizard](/docs/Images/Installation%20Wizard.png)
 
 ---
 

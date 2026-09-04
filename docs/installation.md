@@ -2,6 +2,21 @@
 
 > This guide explains how to install Product XYZ.
 
+## Table of Contents
+
+- #Overview
+  - #Key_Features
+  - #System_Requirements
+- #Pre-Installation_Checklist
+- #Installation_Architecture
+  - #Step1: Download
+  - #Step2: Run Installer
+  - #Step3: Validate Installation
+- #Notes
+- #Footnote
+
+---
+
 ## Overview
 
 Product XYZ enables organizations to manage employee data efficiently.

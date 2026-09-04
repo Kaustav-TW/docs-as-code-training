@@ -26,7 +26,7 @@ Product XYZ enables organizations to manage employee data efficiently.
 
 - [x] Download installer
 - [x] Verify permissions
-- [ ] Schedule maintenance window
+- [x] Schedule maintenance window
 
 ---
 

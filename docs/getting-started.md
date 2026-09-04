@@ -2,6 +2,17 @@
 
 > Welcome to Product XYZ.
 
+## Table of Contents
+- #Open_the_Home_Page
+  - #sample-login-screen
+- #User_Journey
+- #Quick_Start_Tasks
+- #Keyboard_Shortcuts
+- #Important
+  - #Helpful_Links
+- #Example_Configuration
+---
+
 ## Open the Home Page
 
 Enter the URL:

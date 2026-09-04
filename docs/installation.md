@@ -15,7 +15,7 @@ Product XYZ enables organizations to manage employee data efficiently.
 ### System Requirements
 
 | Component | Requirement |
-|------------|------------|
+|------------|:------------:|
 | OS | Windows 11 |
 | RAM | 8 GB |
 | Storage | 20 GB |
@@ -57,9 +57,11 @@ Execute:
 ProductXYZ_Setup.exe
 ```
 
-### Sample Screen
+### Installation Wizard
 
 ![Installation Wizard800x450/png?text=Installation+Wizard](/docs/Images/Installation%20Wizard.png)
+
+Click `Next` and follow the instructions on screen.
 
 ---
 

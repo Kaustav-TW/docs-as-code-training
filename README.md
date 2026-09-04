@@ -3,7 +3,7 @@
 
 > Modern Enterprise Management Platform
 
-[![Version](https://img.shields.io/badge/version-5.2.1-blue)](./docs/changelog.md)</br>
+[![Version](https://img.shields.io/badge/version-5.2.1-blue)](./docs/CHANGELOG.md)</br>
 ![Platform](https://img.shields.io/badge/platform-Windows%2011-green)</br>
 ![License](https://img.shields.io/badge/license-orange)</br>
 ![Documentation](https://img.shields.io/badge/docs-Available-success)

@@ -1,4 +1,4 @@
-# Changelog
+# CHANGELOG
 
 All notable changes to **XYZ Product** will be documented in this file.
 

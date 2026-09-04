@@ -1,8 +1,26 @@
 # User Guide
 
+>This guide helps end users perform common tasks.
+
+---
+
+## Table of Contents
+
+- #Introduction
+- #Dashboard_Overview
+  - #Main_Areas
+- #Navigation_Diagram
+- #Creating_a_New_Employee_Record
+  - #Example_Data
+- #Search_Tips
+- #Best_Practises
+  - #Recommended
+  - #Not_Recommended
+- #Frequently_Used_Features 
+---
 ## Introduction
 
-This guide helps end users perform common tasks.
+This user guide is a concise, task-oriented document that provides step-by-step instructions to help end users operate this product, software, or service efficiently on a day to day basis.
 
 ---
 

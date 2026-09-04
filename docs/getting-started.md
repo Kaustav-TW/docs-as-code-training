@@ -7,10 +7,13 @@
 Enter the URL:
 
 ```text
-https://XYZCompany.com
+https://www.XYZCompany.com
 ```
-The Home Page opens up. Click `Login`.
+The Home Page opens up. 
+
 >![Home Page](/docs/Images/Home%20Page.png)
+- **If you are a new user, click** `Sign Up Now`.
+- **If you are an existing user, click** `Login`.
 
 ### Sample Login Screen
 

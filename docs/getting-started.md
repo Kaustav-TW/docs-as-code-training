@@ -61,8 +61,8 @@ Create First Record: 5: User
 
 ### Helpful Links
 
-- [Documentatione.com/docs
-- [Support Center.com/support
+- [Documentation](https://www.XYZProduct.com/documentation)
+- [Support Center](https://www.XYZProduct.com/support)
 
 ---
 

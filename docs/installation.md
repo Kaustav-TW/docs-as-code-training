@@ -45,7 +45,7 @@ C --> D[Launch Product]
 
 Click the following link:
 
-[Download Packageom/download
+[Download Package](https://www.XYZProduct.com/download)
 
 ---
 

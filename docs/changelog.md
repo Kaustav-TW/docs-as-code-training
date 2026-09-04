@@ -183,40 +183,7 @@ title XYZ Product Releases
 
 ---
 
-**Documentation References**
 
-| Guide | Link |
-|--------|------|
-| Installation Guide | ./guides/InstallationGuide.md |
-| Getting Started Guide | ./guides/GettingStartedGuide.md |
-| Administration Guide | ./guides/AdministrationGuide.md |
-| User Guide | ./guides/UserGuide.md |
-| Troubleshooting Guide | ./guides/TroubleshootingGuide.md |
-
----
 
 © 2026 XYZ Product Documentation Team
 
-Typical Repository Structure
-docs/
-
-├── README.md
-├── CHANGELOG.md
-│
-├── guides/
-│ ├── InstallationGuide.md
-│ ├── GettingStartedGuide.md
-│ ├── AdministrationGuide.md
-│ ├── UserGuide.md
-│ └── TroubleshootingGuide.md
-│
-├── images/
-│ ├── installation-wizard.png
-│ ├── dashboard.png
-│ ├── admin-console.png
-│ └── error-screen.png
-│
-└── api/
-├── openapi.yaml
-└── release-notes.md
-``

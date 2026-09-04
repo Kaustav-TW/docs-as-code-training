@@ -7,6 +7,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%2011-green)
 ![License](https://img.shields.io/badge/license-orange)
 ![Documentation](https://img.shields.io/badge/docs-Available-success)
+![API](https://img.shields.io/badge/API-REST-blue)
 
 XYZ Product is a modern enterprise platform designed to streamline employee management, payroll integration, reporting, administration, and business operations.
 
@@ -79,7 +80,11 @@ Learn how to install and validate XYZ Product.
 
 ### Quick Link
 
-➡️ [Installation Guide](/docs/installation.mdwidth="50%">)
+➡️ [Installation Guide](/docs/installation.md)
+
+</td>
+
+<td width="50%">
 
 ### When To Use
 
@@ -121,7 +126,7 @@ Get new users productive quickly.
 
 ### Quick Link
 
-➡️ guides/GettingStartedGuide.md
+➡️ [Installation Guide](/docs/installation.md)
 
 </td>
 
@@ -167,7 +172,7 @@ Manage users, permissions, security, and integrations.
 
 ### Quick Link
 
-➡️ guides/AdministrationGuide.md
+➡️ [Administration Guide](/docs/administration.md)
 
 </td>
 
@@ -215,7 +220,7 @@ Help end users perform daily activities.
 
 ### Quick Link
 
-➡️ guides/UserGuide.md
+➡️ [User Guide](/docs/user-guide.md)
 
 </td>
 
@@ -261,7 +266,7 @@ Resolve common operational issues.
 
 ### Quick Link
 
-➡️ guides/TroubleshootingGuide.md
+➡️ [Troubleshooting Guide](/docs/trouleshooting.md)
 
 </td>
 
@@ -348,31 +353,6 @@ README
 
 ---
 
-# 📂 Documentation Structure
-
-```text
-docs/
-
-├── README.md
-│
-├── guides/
-│ ├── InstallationGuide.md
-│ ├── GettingStartedGuide.md
-│ ├── AdministrationGuide.md
-│ ├── UserGuide.md
-│ └── TroubleshootingGuide.md
-│
-├── images/
-│ ├── installation-wizard.png
-│ ├── dashboard.png
-│ ├── admin-console.png
-│ └── error-screen.png
-│
-└── assets/
-└── architecture-diagrams
-```
-
----
 
 # ✅ Documentation Status
 

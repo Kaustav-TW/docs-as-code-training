@@ -1,5 +1,22 @@
 # Administration Guide
 
+>This is a technical manual that gives system administrators instructions to install, configure, secure, and maintain the application.
+
+## Table of Contents
+- #Overview
+- #Administrator_Responsibilities
+  - #User_Management
+  - #Security_Controls
+- #Security_Workflow
+- #Add_New_User
+  - #Example
+- #Administration_Screen
+- #Audit_Recomendations
+- #Task_Checklist
+- #API_Configuration
+
+---
+
 ## Overview
 
 Administrators manage:
@@ -55,9 +72,9 @@ C --> E[Grant Access]
 
 ---
 
-## Sample Administration Screen
+## Administration Screen
 
-![Admin Console](https://placehold.co/800x450/png?on+Console
+![Administration Console](/docs/Images/Administration%20Console.png)
 
 ---
 

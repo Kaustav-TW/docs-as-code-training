@@ -3,6 +3,7 @@
 > Welcome to Product XYZ.
 
 ## Table of Contents
+
 - #Open_the_Home_Page
   - #sample-login-screen
 - #User_Journey

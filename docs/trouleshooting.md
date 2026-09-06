@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 # Troubleshooting Guide
 
 >Use this guide to troubleshoot and resolve common issues.

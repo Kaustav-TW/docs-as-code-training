@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Getting Started Guide
 
 > Welcome to Product XYZ.

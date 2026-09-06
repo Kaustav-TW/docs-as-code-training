@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 # User Guide
 
 >This guide helps end users perform common tasks.

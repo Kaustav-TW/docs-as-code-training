@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Product XYZ Installation Guide
 
 > This guide explains how to install Product XYZ.

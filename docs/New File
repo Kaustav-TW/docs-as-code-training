@@ -1,0 +1,18 @@
+---
+sidebar_position: 6
+---
+ 
+# Submit an Expense
+ 
+Learn how to submit an expense.
+ 
+## Before you begin
+ 
+- ExpenseFlow account
+- Access to Expenses
+ 
+## Create an expense
+ 
+1. Sign in to ExpenseFlow.
+2. Open **Expenses**.
+3. Select **New Expense**.

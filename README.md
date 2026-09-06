@@ -11,6 +11,16 @@
 
 XYZ Product is a modern enterprise platform designed to streamline employee management, payroll integration, reporting, administration, and business operations.
 
+## Run the Documentation Site
+
+The Docusaurus site is located in `XYZ Software Inc`, not in the top-level `docs` content folder. From the repository root, run:
+
+```bash
+cd "XYZ Software Inc"
+npm install
+npm run start
+```
+
 ### Key Benefits
 
 ✅ Easy Installation

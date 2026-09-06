@@ -126,7 +126,7 @@ Get new users productive quickly.
 
 ### Quick Link
 
-➡️ [Installation Guide](/docs/installation.md)
+➡️ [Getting Started Guide](/docs/getting-started.md)
 
 </td>
 

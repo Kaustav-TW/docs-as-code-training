@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkxyz_software_inc=self.webpackChunkxyz_software_inc||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/docs-as-code-training/blog","blogTitle":"Blog","authorsListPath":"/docs-as-code-training/blog/authors"}')}}]);

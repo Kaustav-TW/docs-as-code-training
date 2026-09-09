@@ -5,9 +5,7 @@ cconst sidebars = {
     'user-guide',
     'administration',
     'troubleshooting',
-    'submit-an-expense',
-    'cancel-an-expense',
-  ],
+    ],
 };
  
 export default sidebars;

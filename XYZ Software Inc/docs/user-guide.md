@@ -29,7 +29,7 @@ This user guide is a concise, task-oriented document that provides step-by-step 
 
 ## Dashboard Overview
 
-![Dashboard](/docs/Images/Dashboard.png)
+![Dashboard](./Images/Dashboard.png)
 
 ### Main Areas
 

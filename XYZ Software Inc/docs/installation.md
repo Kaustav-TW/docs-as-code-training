@@ -78,7 +78,7 @@ ProductXYZ_Setup.exe
 
 ### Installation Wizard
 
-![Installation Wizard800x450/png?text=Installation+Wizard](/docs/Images/Installation%20Wizard.png)
+![Installation Wizard800x450/png?text=Installation+Wizard](./Images/Installation%20Wizard.png)
 
 Click `Next` and follow the instructions on screen.
 

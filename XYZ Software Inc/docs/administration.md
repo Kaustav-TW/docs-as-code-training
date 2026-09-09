@@ -77,7 +77,7 @@ C --> E[Grant Access]
 
 ## Administration Screen
 
-![Administration Console](/docs/Images/Administration%20Console.png)
+![Administration Console](./Images/Administration%20Console.png)
 
 ---
 

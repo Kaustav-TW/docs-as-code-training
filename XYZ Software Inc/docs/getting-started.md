@@ -26,13 +26,13 @@ https://www.XYZCompany.com
 ```
 The Home Page opens up. 
 
->![Home Page](/docs/Images/Home%20Page.png)
+>![Home Page](./Images/Home%20Page.png)
 - **If you are a new user, click** `Sign Up Now`.
 - **If you are an existing user, click** `Login`.
 
 ### Sample Login Screen
 
-![Login Page](/docs/Images/Login%20Screen.png)
+![Login Page](./Images/Login%20Screen.png)
 ---
 
 ## User Journey

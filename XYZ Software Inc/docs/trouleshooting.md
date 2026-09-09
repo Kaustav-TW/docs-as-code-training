@@ -81,7 +81,7 @@ Get-EventLog Application -Newest 50
 
 ## Error Screenshot
 
-![Error Message](/docs/Images/Error%20Code%20403.png)
+![Error Message](./Images/Error%20Code%20403.png)
 
 ---
 

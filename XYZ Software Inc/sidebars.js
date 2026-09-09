@@ -1,10 +1,10 @@
-cconst sidebars = {
+const sidebars = {
   docsSidebar: [
     'getting-started',
     'installation',
     'user-guide',
     'administration',
-    'troubleshooting',
+    'trouleshooting',
     ],
 };
  

@@ -28,7 +28,7 @@ Administrators manage:
 - Security
 - Integrations
 - System Configuration
-
+[Dashboard](/XYZ%20Software%20Inc/docs/Images/Dashboard.png)
 ---
 
 ## Administrator Responsibilities
